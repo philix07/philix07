@@ -19,9 +19,9 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=philix07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=philix07&theme=dark&hide_border=false)\
+![](https://github-readme-stats.vercel.app/api?username=philix07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)\
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=philix07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)\
-![](https://nirzak-streak-stats.vercel.app/?user=philix07&theme=dark&hide_border=false)
 
 
 ---
