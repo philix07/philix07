@@ -1,8 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m Felix – a Computer Science student.
-💻 I'm passionate about backend development.
-🔧 Currently exploring real-time systems, REST APIs, and scalable microservices architecture.
-🚀 Eager to grow, collaborate, and build meaningful solutions through code.
+👋 Hi, I’m Felix – a Computer Science student.\
+💻 I'm passionate about backend development.\
+🔧 Currently exploring real-time systems, REST APIs, and scalable microservices architecture.\
+🚀 Eager to grow, collaborate, and build meaningful solutions through code.\
 
 ---
 
