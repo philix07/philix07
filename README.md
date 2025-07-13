@@ -2,14 +2,14 @@
 👋 Hi, I’m Felix – a Computer Science student.\
 💻 I'm passionate about backend development.\
 🔧 Currently exploring real-time systems, REST APIs, and scalable microservices architecture.\
-🚀 Eager to grow, collaborate, and build meaningful solutions through code.\
+🚀 Eager to grow, collaborate, and build meaningful solutions through code.
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-liando-324306250/) Felix Liando  
 ✉️ Gmail: felix.liando07@gmail.com  
-📞 WhatsApp: [+62 851-1746-9290](https://wa.me/6285117469290)
+📞 WhatsApp: [+62 851-1746-9290](https://wa.me/6285117469290)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-liando-324306250/)
 
 ---
 
@@ -19,9 +19,10 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=philix07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=philix07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=philix07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=philix07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=philix07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)\
+![](https://nirzak-streak-stats.vercel.app/?user=philix07&theme=dark&hide_border=false)
+
 
 ---
 
