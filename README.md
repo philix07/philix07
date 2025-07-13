@@ -3,8 +3,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-liando-324306250/)  
-✉️ Gmail: your.email@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-liando-324306250/) : Felix Liando  
+✉️ Gmail: felix.liando07@gmail.com  
 📞 WhatsApp: [+62 851-1746-9290](https://wa.me/6285117469290)
 
 
