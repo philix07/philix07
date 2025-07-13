@@ -10,7 +10,8 @@
 <table>
   <tr><td>✉️ Gmail</td><td> felix.liando07@gmail.com</td></tr>
   <tr><td>📞 WhatsApp</td><td> <a href="https://wa.me/6285117469290">+62 851-1746-9290</a></td></tr>
-</table>\
+</table>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-liando-324306250/)
 
 ---
